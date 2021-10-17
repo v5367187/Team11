@@ -31,3 +31,4 @@
 
 ### PERT/CPM 圖
 ![PERT/CPM](team11_PERT.jpg)
+</br>關鍵路徑:1➞2➞3➞4➞7➞8➞9➞10
